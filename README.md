@@ -1,6 +1,6 @@
 ## Trash_Capacity
 
-🗑️ Software concept for displaying drive capacity and usage as an icon.
+🗑️ Software concept for displaying trash capacity and usage as an icon.
 
 ### INSPIRATION
 
